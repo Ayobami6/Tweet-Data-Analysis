@@ -25,7 +25,7 @@ Gather, clean, organise and tidy the messy data to extract meaningful insights
 >- Document the issues 
 >- Fix and clean the issues documented 
 >-Analyse the clean data for interesting facts 
-For the Wrangle report [Click here](https://github.com/Ayobami6/Tweet-Data-Analysis/blob/main/wrangle_act.pdf)
+For the Wrangle report [Click here](https://github.com/Ayobami6/Tweet-Data-Analysis/blob/master/wrangle_act.pdf)
 
 
 
@@ -44,7 +44,7 @@ After assessing and documenting the detected issues, the cleaning stage was init
 * From the result of the analysis it was observed that the dog specie with the highest prediction count in prediction 1 is the Golden_Retriever with the highest count of 150
 * The result of the analysis reveals the tweet with highest retweet count is **Here's a doggo realizing you can stand in a po...** with the retweet count of **70770** among all other tweets between the 2015-2017
 * From the analysis it was revealed that the most frequent tweet source for dogs' tweet between 2015 - 2017 is twitter for iphone.
-For the act report [Click here](https://github.com/Ayobami6/Tweet-Data-Analysis/blob/main/act_report.pdf)
+For the act report [Click here](https://github.com/Ayobami6/Tweet-Data-Analysis/blob/master/act_report.pdf)
 
 ### Project Help Sources 
 Analysis and some syntax ideas was acquired from ALX DA Udacity classroom, data science community such as stackoverflow and geeks4geeks,datacamp and some code documentation websites such as tweepy docs and regular expression docs.
